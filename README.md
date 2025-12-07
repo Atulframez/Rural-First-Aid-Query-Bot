@@ -1,5 +1,7 @@
 # Rural-First-Aid-Query-Bot
 PPT Link : https://drive.google.com/drive/folders/19-4M6lJEzSZ0wMlCpaoVk6fOpII1wSzr?usp=drive_link
+
+
 🟢 A simple and offline Python chatbot that offers step-by-step first-aid instructions during emergencies like burns, fractures, snakebites, nosebleeds, heart attacks, and childbirth situations. Designed to support rural areas where medical help may be delayed.
 
 🟢 Rural First Aid Query Bot aims to guide people with essential first-aid actions before professional treatment is available. Includes emergency numbers, pregnancy delivery kit guidance, and works without internet.
